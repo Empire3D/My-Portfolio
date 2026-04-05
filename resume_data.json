@@ -1,0 +1,469 @@
+{
+  "personal": {
+    "fullName": "Durgesh Kumar Jha",
+    "title": "MIS Analyst | Data Quality Specialist | Reporting & Dashboard Expert",
+    "email": "official.durgeshjha@gmail.com",
+    "phone": "+91 9113110035",
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India"
+    },
+    "linkedin": "linkedin.com/in/durgeshjha-dataanalyst",
+    "website": null,
+    "summary": "Results-driven MIS Analyst and Data Quality Specialist with 4+ years of experience designing automated reporting systems, maintaining 99.8% data accuracy, and delivering end-to-end MIS cycles for senior leadership. Proven expertise in SQL, Python, and Advanced Excel for transforming raw operational data into actionable KPI dashboards."
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Subject-Matter Expert — Data Quality & MIS Analyst",
+      "company": "Highspring India",
+      "clientType": "Google Ecosystem Client",
+      "location": "Gurugram, Haryana",
+      "startDate": "2024-04",
+      "endDate": "2026-03",
+      "duration": "24 months",
+      "current": true,
+      "achievements": [
+        {
+          "title": "Data Integrity",
+          "description": "Maintained a 99.8% data accuracy rate across large-scale datasets within the Google ecosystem by implementing rigorous multi-layer validation protocols and audit frameworks",
+          "metric": "99.8%"
+        },
+        {
+          "title": "MIS Automation",
+          "description": "Engineered and deployed automated WFH, Production, and Training MIS dashboards providing real-time visibility into resource bottlenecks, reducing manual verification time by 15%",
+          "metric": "15%"
+        },
+        {
+          "title": "Reporting Ownership",
+          "description": "Owned end-to-end MIS reporting lifecycle — Daily, Weekly, and Monthly — ensuring 100% on-time data availability for senior management decision-making",
+          "metric": "100%"
+        },
+        {
+          "title": "Process Governance",
+          "description": "Led client calibration sessions to resolve SOP ambiguities and standardise reporting definitions, ensuring consistent data interpretation across global cross-functional teams",
+          "metric": "Global Teams"
+        },
+        {
+          "title": "RCA & Insights",
+          "description": "Conducted Pareto and root-cause analyses on recurring data discrepancies, translating findings into process improvement recommendations adopted across the operations team",
+          "metric": "Process Improvement"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Operations Data Analyst",
+      "company": "Highspring India",
+      "clientType": null,
+      "location": "Gurugram, Haryana",
+      "startDate": "2022-04",
+      "endDate": "2024-03",
+      "duration": "24 months",
+      "current": false,
+      "achievements": [
+        {
+          "title": "Data Quality Governance",
+          "description": "Designed and enforced a performance-based incentive model to drive data quality compliance, improving submission accuracy across analyst teams",
+          "metric": "Accuracy Improvement"
+        },
+        {
+          "title": "Issue Resolution",
+          "description": "Investigated and resolved client validation requests using structured root-cause analysis, eliminating persistent data discrepancies and reducing escalations",
+          "metric": "Escalation Reduction"
+        },
+        {
+          "title": "Dashboard Engineering",
+          "description": "Built and maintained operational trackers and performance dashboards in Advanced Excel, enabling team leads to monitor KPIs in real time",
+          "metric": "Real-Time Dashboards"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "role": "System Support Engineer L1",
+      "company": "Wipro Limited",
+      "clientType": "Airtel RF Project",
+      "location": null,
+      "startDate": "2021-07",
+      "endDate": "2022-03",
+      "duration": "9 months",
+      "current": false,
+      "achievements": [
+        {
+          "title": "SLA Management",
+          "description": "Managed L1 support operations for Airtel RF infrastructure, resolving complex router issues within SLA commitments and maintaining 100% client uptime",
+          "metric": "100% Uptime"
+        },
+        {
+          "title": "Stakeholder Coordination",
+          "description": "Coordinated with field engineers and stakeholders to ensure timely issue resolution and continuous service delivery",
+          "metric": "SLA Compliance"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc.",
+      "field": "Information Technology",
+      "institution": "Model College of Science and Commerce",
+      "location": null,
+      "graduationDate": "2021-06",
+      "grade": "A+",
+      "honors": true
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Data Analytics Professional Certificate",
+      "issuer": "Google",
+      "status": "In Progress",
+      "expectedCompletion": "2026-03",
+      "credentialId": null
+    },
+    {
+      "name": "Power BI for Data Analytics",
+      "issuer": "Self-learning",
+      "status": "In Progress",
+      "expectedCompletion": null,
+      "credentialId": null
+    }
+  ],
+  "skills": {
+    "expert": [
+      {
+        "skill": "Data Quality Management",
+        "yearsOfExperience": 4,
+        "proficiencyLevel": "Expert"
+      },
+      {
+        "skill": "MIS Reporting (Daily/Weekly/Monthly cycles)",
+        "yearsOfExperience": 4,
+        "proficiencyLevel": "Expert"
+      },
+      {
+        "skill": "Advanced Excel (Pivot Tables, VLOOKUP, XLOOKUP, Macros)",
+        "yearsOfExperience": 4,
+        "proficiencyLevel": "Expert"
+      },
+      {
+        "skill": "SQL (Queries, Joins, Aggregations)",
+        "yearsOfExperience": 4,
+        "proficiencyLevel": "Expert"
+      },
+      {
+        "skill": "Root Cause Analysis (RCA)",
+        "yearsOfExperience": 3,
+        "proficiencyLevel": "Expert"
+      },
+      {
+        "skill": "SOP Documentation & Governance",
+        "yearsOfExperience": 3,
+        "proficiencyLevel": "Expert"
+      }
+    ],
+    "proficient": [
+      {
+        "skill": "Python (Pandas, NumPy)",
+        "yearsOfExperience": 2,
+        "proficiencyLevel": "Proficient"
+      },
+      {
+        "skill": "Tableau Dashboard Design",
+        "yearsOfExperience": 2,
+        "proficiencyLevel": "Proficient"
+      },
+      {
+        "skill": "Data Profiling & Validation",
+        "yearsOfExperience": 3,
+        "proficiencyLevel": "Proficient"
+      },
+      {
+        "skill": "Process Improvement",
+        "yearsOfExperience": 3,
+        "proficiencyLevel": "Proficient"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "yearsOfExperience": 4,
+        "proficiencyLevel": "Proficient"
+      },
+      {
+        "skill": "Google Workspace",
+        "yearsOfExperience": 3,
+        "proficiencyLevel": "Proficient"
+      }
+    ],
+    "growing": [
+      {
+        "skill": "Google Cloud Data Analytics",
+        "yearsOfExperience": 0,
+        "proficiencyLevel": "Growing"
+      },
+      {
+        "skill": "Power BI",
+        "yearsOfExperience": 0,
+        "proficiencyLevel": "Growing"
+      },
+      {
+        "skill": "Data Pipeline Development",
+        "yearsOfExperience": 0,
+        "proficiencyLevel": "Growing"
+      }
+    ]
+  },
+  "tools": [
+    {
+      "name": "Advanced Excel",
+      "category": "Data Analysis",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Tableau",
+      "category": "Visualization",
+      "proficiency": "Proficient"
+    },
+    {
+      "name": "SQL",
+      "category": "Database",
+      "proficiency": "Expert"
+    },
+    {
+      "name": "Python",
+      "category": "Programming",
+      "proficiency": "Proficient"
+    },
+    {
+      "name": "Google Cloud",
+      "category": "Cloud Platform",
+      "proficiency": "Growing"
+    },
+    {
+      "name": "Power BI",
+      "category": "Visualization",
+      "proficiency": "Growing"
+    },
+    {
+      "name": "Google Workspace",
+      "category": "Productivity",
+      "proficiency": "Proficient"
+    },
+    {
+      "name": "MS Access",
+      "category": "Database",
+      "proficiency": "Proficient"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "MIS Automation Platform",
+      "company": "Highspring India",
+      "companyType": "Current Employer",
+      "description": "Engineered end-to-end automated reporting system to eliminate manual verification bottlenecks",
+      "challenge": "40+ hours per week spent on manual verification across production, training, and WFH operations. High risk of errors during peak loads.",
+      "solution": "Designed and deployed automated WFH, Production, and Training MIS dashboards with real-time data feeds. Implemented multi-layer validation protocols and automated alerts for anomalies.",
+      "technologies": [
+        "Advanced Excel",
+        "VBA",
+        "SQL",
+        "Google Sheets",
+        "Data Validation Frameworks"
+      ],
+      "impact": [
+        "15% reduction in manual verification time (40+ hours → 35 hours/week)",
+        "99.8% data accuracy maintained across datasets",
+        "100% on-time reporting for senior leadership decisions"
+      ],
+      "keyHighlight": "Automated system reduces workload from 40+ hours to 35 hours/week while improving accuracy metrics",
+      "metrics": {
+        "timeReduction": 15,
+        "accuracyRate": 99.8,
+        "onTimeDelivery": 100
+      },
+      "startDate": "2024-04",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "title": "Data Quality Governance Model",
+      "company": "Highspring India",
+      "companyType": "Previous Role",
+      "description": "Designed performance-based incentive system to drive data quality compliance across teams",
+      "challenge": "Inconsistent data submission quality across analyst teams. High escalation rates (30%+) due to validation failures. No standardized quality benchmarks.",
+      "solution": "Created performance-based incentive model tied directly to data quality KPIs. Implemented transparent metrics dashboard visible to all teams. Established SOP documentation and standardized validation protocols.",
+      "technologies": [
+        "Excel",
+        "Power Query",
+        "Dashboard Design",
+        "Process Documentation"
+      ],
+      "impact": [
+        "Measurable improvement in submission accuracy across all teams",
+        "~30% reduction in escalations",
+        "Model adopted as template for team-wide quality improvement"
+      ],
+      "keyHighlight": "Performance model became the gold standard and was adopted company-wide for quality management",
+      "metrics": {
+        "escalationReduction": 30,
+        "accuracyImprovement": "Significant",
+        "adoption": "Company-wide"
+      },
+      "startDate": "2022-04",
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "title": "Virat Kohli IPL Performance Analysis",
+      "company": "Personal Project",
+      "companyType": "Portfolio Project",
+      "description": "End-to-end analytics pipeline analyzing complex cricket data to identify performance patterns",
+      "challenge": "Analyze large ball-by-ball IPL dataset to understand Virat Kohli's performance patterns, vulnerabilities, and scoring trends across different delivery types and pitch conditions.",
+      "solution": "Built complete analytics pipeline: Data ingestion → Python transformation (Pandas/NumPy) → Tableau visualization. Conducted structured RCA on dismissal trends and delivery type correlations.",
+      "technologies": [
+        "Python (Pandas, NumPy)",
+        "Tableau",
+        "Data Visualization",
+        "Statistical Analysis"
+      ],
+      "impact": [
+        "Identified strike rate patterns across delivery types (short-pitch vs. full-length)",
+        "Correlated batting performance with pitch conditions",
+        "Conducted RCA on dismissal trends against specific bowlers"
+      ],
+      "keyHighlight": "Demonstrates end-to-end analytics expertise: raw data → transformation → insight visualization. Replicates MIS analyst approach to problem-solving.",
+      "metrics": {
+        "patterns": "Multiple",
+        "accuracy": "High",
+        "insights": 5
+      },
+      "startDate": "2026-03",
+      "status": "Active"
+    }
+  ],
+  "keyMetrics": {
+    "totalExperience": 4.75,
+    "yearsAsMIS": 2,
+    "yearsAsOperationsAnalyst": 2,
+    "yearsAsSupport": 0.75,
+    "dataAccuracyBenchmark": 99.8,
+    "efficiencyGain": 15,
+    "onTimeDeliveryRate": 100,
+    "globalStakeholders": 50
+  },
+  "uniqueSellingPoints": [
+    {
+      "usp": "99.8% Data Accuracy Benchmark",
+      "description": "Maintains exceptionally high data quality standards, demonstrating precision and quality-focused mindset in all operations",
+      "category": "Quality"
+    },
+    {
+      "usp": "End-to-End Process Ownership",
+      "description": "Manages complete MIS cycles (Daily/Weekly/Monthly) showing maturity and full lifecycle understanding",
+      "category": "Responsibility"
+    },
+    {
+      "usp": "Process Improvement Orientation",
+      "description": "Conducts Pareto analysis and RCA to identify systemic improvements and drive operational excellence",
+      "category": "Methodology"
+    },
+    {
+      "usp": "Automation & Efficiency",
+      "description": "Delivered 15% reduction in manual verification time through intelligent system design",
+      "category": "Impact"
+    },
+    {
+      "usp": "Global Stakeholder Management",
+      "description": "Successfully manages calibration sessions and reporting for global cross-functional teams",
+      "category": "Communication"
+    },
+    {
+      "usp": "Multi-Tool Analytics Stack",
+      "description": "Proficient across Excel → SQL/Python → Tableau pipeline (data transformation to visualization)",
+      "category": "Technical"
+    },
+    {
+      "usp": "Clear Career Progression",
+      "description": "Promoted 3 times in 4.5 years: Support Engineer → Operations Analyst → Subject-Matter Expert",
+      "category": "Growth"
+    }
+  ],
+  "targetRoles": [
+    {
+      "role": "MIS Reporting Analyst",
+      "companies": ["Genpact", "American Express", "Barclays", "TCS", "Accenture"],
+      "relevance": "High"
+    },
+    {
+      "role": "Data Quality Analyst",
+      "companies": ["Wipro", "Infosys", "Capgemini", "Cognizant"],
+      "relevance": "High"
+    },
+    {
+      "role": "Business Analyst (Operations/Analytics)",
+      "companies": ["Deloitte", "EY", "PWC", "KPMG"],
+      "relevance": "High"
+    },
+    {
+      "role": "Data Analyst",
+      "companies": ["Goldman Sachs", "Morgan Stanley", "JP Morgan"],
+      "relevance": "Medium-High"
+    }
+  ],
+  "designSystem": {
+    "primaryColors": {
+      "deepSlateBlue": "#1F3A52",
+      "vibrantTeal": "#00BCD4",
+      "warmCharcoal": "#2C2C2C"
+    },
+    "accentColors": {
+      "emeraldGreen": "#10B981",
+      "amberGold": "#F59E0B",
+      "coralRed": "#FF6B6B"
+    },
+    "neutralPalette": {
+      "offWhite": "#F9FAFB",
+      "lightGray": "#E5E7EB",
+      "mediumGray": "#9CA3AF",
+      "darkGray": "#6B7280"
+    },
+    "typography": {
+      "display": "IBM Plex Serif",
+      "body": "Inter",
+      "mono": "IBM Plex Mono"
+    },
+    "aesthetic": "Data-Driven Minimalism with Strategic Color Accents"
+  },
+  "seoKeywords": {
+    "primary": [
+      "MIS Analyst",
+      "Data Quality Specialist",
+      "Reporting Dashboard",
+      "SQL Developer",
+      "Data Analyst"
+    ],
+    "secondary": [
+      "Business Analyst",
+      "Tableau Dashboard",
+      "Excel Advanced",
+      "Data Governance",
+      "ETL Process"
+    ],
+    "longtail": [
+      "MIS Analyst job Gurugram",
+      "Data Quality Specialist India",
+      "Automated Reporting Systems",
+      "Excel Tableau Portfolio"
+    ]
+  },
+  "metadata": {
+    "resumeParsedDate": "2026-04-06",
+    "totalYearsExperience": 4.75,
+    "currentStatus": "Employed",
+    "openToOpportunities": true,
+    "relocationWilling": false,
+    "noticePeriod": "30 days"
+  }
+}
